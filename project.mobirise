@@ -17,7 +17,8 @@
       },
       "additionalSetColors": [
         "#ffffff",
-        "#dfdddd"
+        "#dfdddd",
+        "#46beae"
       ]
     },
     "versionFirst": "3.12.1",
@@ -98,7 +99,7 @@
             "bgImage": "@THEME_PATH@/components/_images/3.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#29d9c2",
+            "bgColor": "#46beae",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
